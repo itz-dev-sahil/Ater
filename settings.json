@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Naruto",
+    "username": "vastland",
     "password": "",
     "type": "offline"
   },
@@ -32,6 +32,7 @@
       "repeat-delay": 2000,
       "messages": [
         "her ?",
+        "vastland server mai bhi khelo kabhi yar https://discord.gg/23hhzrEWxw ",
       ]
     },
     "chat-log": true,
