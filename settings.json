@@ -32,7 +32,7 @@
       "repeat-delay": 2000,
       "messages": [
         "T-T",
-        "dirt ",
+        "dirt "
       ]
     },
     "chat-log": true,
