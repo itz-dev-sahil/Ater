@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "vastland",
+    "username": "akshu628",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ProPlayersonXD.aternos.me",
+    "ip": "62.141.62.24",
     "port": 37279,
     "version": "1.20.1",
     "try-creative": false
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 2000,
       "messages": [
-        "her ?",
-        "vastland server mai bhi khelo kabhi yar https://discord.gg/23hhzrEWxw ",
+        "T-T",
+        "dirt ",
       ]
     },
     "chat-log": true,
